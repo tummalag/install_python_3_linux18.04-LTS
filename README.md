@@ -38,12 +38,15 @@ In general, to install any module you just need to know the module name (excepti
 Few examples are here
 
 Open CV
+
         pip3 install opencv-python
         
 Pandas
+
         pip3 install pandas
         
 Tensor Flow
+            
         pip3 install tensorflow
         
         
