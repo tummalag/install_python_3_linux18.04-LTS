@@ -20,14 +20,15 @@ Then, its time to check the version
 
     pip3 --version
     
-output
+output for the above command, it should be 18.1 or higher version
+
     pip 18.1 from /usr/lib/python3/dist-packages/pip (python 3.7)
     
     
 To upgrade pip
 
         pip3 install --upgrade pip
-
+                
 
 ## pip module names
 
@@ -49,6 +50,9 @@ Tensor Flow
             
         pip3 install tensorflow
         
+Numpy
+
+        pip3 install numpy
         
         
        
