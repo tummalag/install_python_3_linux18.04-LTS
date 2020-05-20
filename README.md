@@ -24,6 +24,29 @@ output
     pip 18.1 from /usr/lib/python3/dist-packages/pip (python 3.7)
     
     
+To upgrade pip
+
+        pip3 install --upgrade pip
 
 
+## pip module names
+
+In general, to install any module you just need to know the module name (exceptions apply), here we will discuss the genreal syntax of the pip install command
+
+        pip3 install <module>
+        
+Few examples are here
+
+Open CV
+        pip3 install opencv-python
+        
+Pandas
+        pip3 install pandas
+        
+Tensor Flow
+        pip3 install tensorflow
+        
+        
+        
+       
 
